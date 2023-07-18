@@ -1,4 +1,4 @@
-# Instruções do Projeto
+# **Instruções do Projeto**
 Elabore um algoritmo que representa um cadastro. Ele deve ler os seguintes dados fornecidos pelo usuário:
 
 - Nome
@@ -14,7 +14,7 @@ Elabore um algoritmo que representa um cadastro. Ele deve ler os seguintes dados
 
 Apresente as informações solicitadas no final do cadastro.
 
-# Resposta
+# **Resposta**
 
 ### Variáveis:
 let nome, endereco, cidade, cpf, rg, idade, nomeDoPai, nomeDaMae, peso, rendaBruta;
