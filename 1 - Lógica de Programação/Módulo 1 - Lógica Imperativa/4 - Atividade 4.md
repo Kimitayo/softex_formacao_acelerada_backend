@@ -16,10 +16,10 @@ Apresente as informações solicitadas no final do cadastro.
 
 # **Resposta**
 
-### Variáveis:
+## Variáveis:
 let nome, endereco, cidade, cpf, rg, idade, nomeDoPai, nomeDaMae, peso, rendaBruta;
 
-### Entrada e leitura:
+## Entrada e leitura:
 entrada("Qual é o seu nome?);
 
 lê nome.
@@ -70,7 +70,7 @@ entrada("Qual é a sua renda bruta?);
 lê rendaBruta.
 
 
-### Impressão final
+## Impressão final
 imprimir("O seu nome é ", nome);
 
 imprimir("O seu endereço é ", endereco);
