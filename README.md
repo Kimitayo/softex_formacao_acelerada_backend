@@ -8,11 +8,11 @@ Na formação Back end o aluno aprenderá como desenvolver arquiteturas de servi
 O curso terá formato semipresencial de 324 horas de aulas, sendo 180 horas em formato remoto, numa plataforma de aprendizado à distância, e 144 horas presenciais.
 
 ### A trilha que será seguida neste repositório será o de Backend, que compreende os seguintes assuntos:
-1. Módulo 1 -  Lógica de Programação e Orientação a Objetos
-2. Módulo 2 - JavaScript
+1. Módulo 1 -  Lógica de Programação 
+2. Módulo 2 - JavaScript e Orientação a Objetos
 3. Módulo 3 - Padrões de Desenvolvimento de Software
-4. Módulo 4 - Web Services - Server
-5. Módulo 5 - Noções de Banco de Dados
-6. Módulo 6 - Node JS + Express
+4. Módulo 4 - Noções de Banco de Dados
+5. Módulo 5 - Node JS
+6. Módulo 6 - Web Services - Server
 
 Referência: https://fap.softexrecife.org.br/
