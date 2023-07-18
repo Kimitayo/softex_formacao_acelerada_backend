@@ -21,9 +21,11 @@ let nome, endereco, cidade, cpf, rg, idade, nomeDoPai, nomeDaMae, peso, rendaBru
 
 ### Entrada e leitura:
 entrada("Qual é o seu nome?);
+
 lê nome.
 
 entrada("Qual é o seu endereço?);
+
 lê endereco.
 
 entrada("Qual é o nome da sua cidade?);
