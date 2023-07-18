@@ -11,15 +11,15 @@ Informe quem ficou em 1º, 2º e 3º lugar em cada disciplina.
 
 # **Respostas**
 
-## Pessoas:
+### **Pessoas:**
 
 Aristóteles, Sócrates e Platão
 
-## Disciplinas:
+### **Disciplinas:**
 
 Física, matemática e química
 
-## Posições:
+### **Posições:**
 
 1°, 2° e 3°
 
