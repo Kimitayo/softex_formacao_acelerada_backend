@@ -28,11 +28,19 @@ No algoritmo, descreva como será:
 
 ## DECLARANDO VARIÁVEL:
 var nome = "José Almeida da Silva";
+
 var cpf = 12345678900;
+
 var rg = 1.78;
 
+
 var rua = "Rua A";
+
 var num_casa = 380;
+
 var bairro = "Centro";
+
 var cidade = "Recife";
+
 var estado = "Pernambuco";
+
