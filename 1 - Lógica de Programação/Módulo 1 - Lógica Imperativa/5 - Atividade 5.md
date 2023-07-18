@@ -13,4 +13,4 @@ Expressões:
 (   ) Jogador 3: (pontos < 100) or (moedas < 5) or (enfrentou_chefe == Sim)
 (   ) Jogador 4: (pontos != 100) or (moedas != 5) or not(enfrentou_chefe == Não) 
 
-Link - ![Imagem](https://drive.google.com/file/d/1Kye9rYKxc_rmV3bah75f_tpEZpLoYAqM/view)
+Link - ![Imagem]([https://drive.google.com/file/d/1ewYV8hAXlMYN6VMopjsRbcluE7lPC5Tp/view?usp=sharing)
