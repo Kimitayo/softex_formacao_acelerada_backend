@@ -9,8 +9,12 @@ Dica: Lembre-se de substituir as variáveis "pontos", "moedas" e "enfrentou_chef
 
 Expressões:
 (   )Jogador 1: (pontos >= 100) and (moedas >= 5) and (enfrentou_chefe == Sim)
+
 (   )Jogador 2: (pontos >= 100) and (moedas >= 5) and (enfrentou_chefe == Não)
+
 (   ) Jogador 3: (pontos < 100) or (moedas < 5) or (enfrentou_chefe == Sim)
+
 (   ) Jogador 4: (pontos != 100) or (moedas != 5) or not(enfrentou_chefe == Não) 
 
-Link - ![https://drive.google.com/file/d/1ewYV8hAXlMYN6VMopjsRbcluE7lPC5Tp/view?usp=sharing)
+
+Link - [https://drive.google.com/file/d/1ewYV8hAXlMYN6VMopjsRbcluE7lPC5Tp/view?usp=sharing)
