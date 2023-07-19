@@ -18,20 +18,17 @@ Para chegar ao resultado de cada uma das opções, use o modelo em anexo.
 ![unnamed](https://github.com/Kimitayo/softex_formacao_acelerada_backend/assets/84105466/aa0b1543-d464-46f7-a511-e78da30e6671)
 
 # **Resposta**
+
 ### Variáveis
+```
 var terrestre, espaco, peso, pedal, capacete;
+```
 
 ### Início
+```
 escreva("O meio de transporte escolhido é terrestre? Sim ou não?")
 leia(terrestre)
-
-### Estrutura condicional
-### Variáveis
-var terrestre, espaco, peso, pedal, capacete;
-
-### Início
-escreva("O meio de transporte escolhido é terrestre? Sim ou não?")
-leia(terrestre)
+```
 
 ### Estrutura condicional
 ```
