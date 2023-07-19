@@ -20,7 +20,7 @@ Expressões:
 ![PeerTutoringExtra_LogicaImperativa_01](https://github.com/Kimitayo/softex_formacao_acelerada_backend/assets/84105466/2d1b0338-ffe3-4aac-b85f-69ef86a37732)
 
 
-# **Respostas**
+# **Resposta**
 - Jogador 1: V V V, logo é **V**
 - Jogador 2: F V V, logo é **F**
 - Jogador 3: F F V, logo é **V**
