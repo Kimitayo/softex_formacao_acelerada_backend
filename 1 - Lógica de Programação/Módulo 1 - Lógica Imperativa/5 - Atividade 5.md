@@ -18,3 +18,9 @@ Expressões:
 
 
 Link - [https://drive.google.com/file/d/1ewYV8hAXlMYN6VMopjsRbcluE7lPC5Tp/view?usp=sharing)
+
+# **Respostas**
+- <sup>Jogador 1:</sup> V V V, logo é **V**
+- Jogador 2: F V V, logo é **F**
+- Jogador 3: F F V, logo é **V**
+- Jogador 4: V V F, logo é **V**
