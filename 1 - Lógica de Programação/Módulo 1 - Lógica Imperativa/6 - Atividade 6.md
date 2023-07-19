@@ -57,11 +57,7 @@ se (pedal=='sim') então
 se (espaco=='não') então
 
     escreva("Usa capacete? Sim ou não?")
-    
     leia(capacete)
-    
-
-se (capacete=='sim') então
-
+    se (capacete=='sim') então
     imprimir('Moto')
     
