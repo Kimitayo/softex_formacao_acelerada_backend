@@ -16,6 +16,7 @@ Expressões:
 
 (   ) Jogador 4: (pontos != 100) or (moedas != 5) or not(enfrentou_chefe == Não) 
 
+![PeerTutoringExtra_LogicaImperativa_01](https://github.com/Kimitayo/softex_formacao_acelerada_backend/assets/84105466/2d1b0338-ffe3-4aac-b85f-69ef86a37732)
 
 Link - [https://drive.google.com/file/d/1ewYV8hAXlMYN6VMopjsRbcluE7lPC5Tp/view?usp=sharing)
 
