@@ -20,7 +20,15 @@ Expressões:
 Link - [https://drive.google.com/file/d/1ewYV8hAXlMYN6VMopjsRbcluE7lPC5Tp/view?usp=sharing)
 
 # **Respostas**
-- <sup>Jogador 1:</sup> V V V, logo é **V**
+- Jogador 1: V V V, logo é **V**
 - Jogador 2: F V V, logo é **F**
 - Jogador 3: F F V, logo é **V**
 - Jogador 4: V V F, logo é **V**
+
+(V)Jogador 1: (pontos <sup>V</sup>= 100) and (moedas <sup>V</sup>>= 5) and (enfrentou_chefe <sup>V</sup>== Sim)
+
+(F)Jogador 2: (pontos >= 100) and (moedas >= 5) and (enfrentou_chefe == Não)
+
+(V) Jogador 3: (pontos < 100) or (moedas < 5) or (enfrentou_chefe == Sim)
+
+(V) Jogador 4: (pontos != 100) or (moedas != 5) or not(enfrentou_chefe == Não) 
