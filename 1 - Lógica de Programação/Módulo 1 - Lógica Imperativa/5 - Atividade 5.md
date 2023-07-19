@@ -27,8 +27,8 @@ Link - [https://drive.google.com/file/d/1ewYV8hAXlMYN6VMopjsRbcluE7lPC5Tp/view?u
 
 (V)Jogador 1: (pontos <sup>V</sup>= 100) and (moedas <sup>V</sup>>= 5) and (enfrentou_chefe <sup>V</sup>== Sim)
 
-(F)Jogador 2: (pontos >= 100) and (moedas >= 5) and (enfrentou_chefe == Não)
+(F)Jogador 2: (pontos <sup>F</sup>>= 100) and (moedas <sup>V</sup>>= 5) and (enfrentou_chefe <sup>V</sup>== Não)
 
-(V) Jogador 3: (pontos < 100) or (moedas < 5) or (enfrentou_chefe == Sim)
+(V) Jogador 3: (pontos <sup>F</sup>< 100) or (moedas <sup>F</sup>< 5) or (enfrentou_chefe <sup>V</sup>== Sim)
 
-(V) Jogador 4: (pontos != 100) or (moedas != 5) or not(enfrentou_chefe == Não) 
+(V) Jogador 4: (pontos <sup>V</sup>!= 100) or (moedas <sup>V</sup>!= 5) or not(enfrentou_chefe <sup>F</sup>== Não) 
