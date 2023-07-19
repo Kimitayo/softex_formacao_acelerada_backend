@@ -26,38 +26,30 @@ escreva("O meio de transporte escolhido é terrestre? Sim ou não?")
 leia(terrestre)
 
 ### Estrutura condicional
-se (terrestre=='sim') então
+### Variáveis
+var terrestre, espaco, peso, pedal, capacete;
 
+### Início
+escreva("O meio de transporte escolhido é terrestre? Sim ou não?")
+leia(terrestre)
+
+### Estrutura condicional
+''' se (terrestre=='sim') então
     escreva("Cabe somente 1 pessoa? Sim ou não?")
-    
     leia(espaco)
-    
 
 se (espaco=='sim') então
-
     escreva("É pesado? Sim ou não?")
-    
     leia(peso)
-    
     escreva("Tem pedal? Sim ou não?")
-    
     leia(pedal)
-    
 
 se (peso=='sim') então
-
     imprimir("Trator")
-    
-
 se (pedal=='sim') então
-
     imprimir('Bicicleta')
-    
-
 se (espaco=='não') então
-
     escreva("Usa capacete? Sim ou não?")
     leia(capacete)
-    se (capacete=='sim') então
-    imprimir('Moto')
-    
+se (capacete=='sim') então
+    imprimir('Moto') '''
