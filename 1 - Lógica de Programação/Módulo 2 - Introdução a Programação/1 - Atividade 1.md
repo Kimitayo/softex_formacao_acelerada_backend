@@ -15,7 +15,7 @@ Utilizando o Google Blockly construa o algoritmos que realiza esse processamento
 
 ![1-2](https://github.com/Kimitayo/softex_formacao_acelerada_backend/assets/84105466/f1cd5769-6067-435f-8135-34262e839ec5)
 
-### Código
+### Código em JavaScript
 
 ```
 var nota1, nota2, soma, media;
