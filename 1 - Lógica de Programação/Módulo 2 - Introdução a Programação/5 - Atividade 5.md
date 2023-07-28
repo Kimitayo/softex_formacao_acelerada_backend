@@ -4,6 +4,7 @@ Faça um código, utilizando o Google Blockly, que execute a contagem regressiva
 
 # **Resposta**
 
+![image](https://github.com/Kimitayo/softex_formacao_acelerada_backend/assets/84105466/789b43e3-9bf3-416b-b61f-721cd7165d4f)
 
 
 ### Código em JavaScript
