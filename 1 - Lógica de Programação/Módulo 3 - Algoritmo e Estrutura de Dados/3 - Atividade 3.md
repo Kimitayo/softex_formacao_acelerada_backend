@@ -12,7 +12,7 @@ Levando em conta as três estruturas de dados (fila, lista e pilha) e as suas re
 ### Código em JavaScript
 
 ```
-// Fila: utiliza shift, e assim consegue remover o primeiro valor do array
+// Fila: utiliza shift, e assim consegue remover o primeiro elemento do array
 let array = [3, 7, 9, 1, 0];
 console.log(array);
 
@@ -21,8 +21,8 @@ while (array.length > 0) {
     console.log(array);
 }
 
-// Lista: utiliza splice, e assim consegue remover em qualquer ordem.
+// Lista: utiliza splice, e assim consegue remover o elemento em qualquer ordem.
 
-// Pilha: utiliza pop, e assim consegue remover o último valor do array.
+// Pilha: utiliza pop, e assim consegue remover o último elemento do array.
 
 ```
