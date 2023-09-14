@@ -6,7 +6,7 @@ A atividade que faremos é a da “calculadora de média”. Para isso, você de
 
 ### Código em JavaScript
 
-```
+```javascript
 let nota1, nota2, nota3, media;
 
 nota1 = Number(prompt("Digite o valor da nota1: "));
