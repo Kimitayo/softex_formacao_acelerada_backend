@@ -13,10 +13,12 @@ var numero, i;
 ```
 
 ### Algoritmo
-  ```
+
+```javascript
   escreva("Digite os valores para o cálculo:  ")
   leia(numero)
     para i <- 0 até 10 faça
     escreva(numero, " x ", i, " = ", numero * i)
   fimpara
-  ```
+```
+
