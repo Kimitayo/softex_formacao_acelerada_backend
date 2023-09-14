@@ -35,6 +35,7 @@ boolean = false;
 bigInt = 1234567890123456788909876543211;
 string = "meu nome é Clara";
 symbol = Symbol("oi");
+```
 
 console.log("Boolean: ", boolean);
 console.log("BigInt: ", bigInt);
