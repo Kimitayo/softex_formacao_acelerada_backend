@@ -10,7 +10,7 @@ Codifique a solução mais eficiente para buscar o número 20 no array.
 
 ### Código em JavaScript
 
-```java
+```javascript
 function buscarElemento(array, elemento) {
     for (let i = 0; i < array.length; i++) {
         if (array[i] === elemento) {
