@@ -6,7 +6,7 @@ Estamos rodeados por dados no nosso cotidiano e, nas aulas, aprendemos sobre os 
 
 ### Código em JavaScript
 
-```
+```javascript
 // Variáveis declaradas
 let boolean;
 let bigInt;
@@ -41,4 +41,4 @@ console.log("BigInt: ", bigInt);
 console.log("String: ", string);
 console.log("Symbol: ", symbol);
 
-```
+
