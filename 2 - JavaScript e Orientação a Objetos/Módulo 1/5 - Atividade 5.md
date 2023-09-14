@@ -6,7 +6,7 @@ Vamos criar um cadastro de pessoa com os seguintes dados: nome, salário, idade 
 
 ### Código em JavaScript
 
-```
+```javascript
 let nome, salario, idade, diploma;
 
 nome = prompt("Digite o nome: "); //string
