@@ -1,6 +1,3 @@
-const prompt = require('prompt-sync')();
-
-
 let a, b;
 
 console.log("Soma -> +\nSubtração -> -\nMultiplicação -> *\nDivisão -> /\n");
