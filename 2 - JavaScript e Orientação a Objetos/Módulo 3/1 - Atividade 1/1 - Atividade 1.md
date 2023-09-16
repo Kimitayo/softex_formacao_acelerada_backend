@@ -12,8 +12,6 @@ Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilh
 ### Código em JavaScript
 
 ```javascript
-const prompt = require('prompt-sync')();
-
 
 let a, b;
 
